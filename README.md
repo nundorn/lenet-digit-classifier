@@ -10,6 +10,5 @@ The goal is to classify images of handwritten digits (0–9) from the MNIST-like
 - CNN model based on the original LeNet-5 architecture
 - Built using Keras Sequential API for simplicity
 - Activation functions: `tanh` and `softmax` as in the original paper
-- Includes dropout layer for basic regularization (optional)
 - Validation split used for model performance monitoring
 - Generates a submission-ready CSV file for Kaggle evaluation
